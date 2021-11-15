@@ -1,0 +1,3 @@
+﻿  CSPalindrome.cpp
+C:\Users\Daniel\Source\CSPalindrome\CSPalindrome.cpp(18,25): warning C4267: 'initializing': conversion from 'size_t' to 'char', possible loss of data
+  CSPalindrome.vcxproj -> C:\Users\Daniel\Source\CSPalindrome\Debug\CSPalindrome.exe
